@@ -25,18 +25,22 @@ Before diving into the tutorials, make sure you have the following:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/shell-script-tutorials.git
-    cd shell-script-tutorials
+    git clone https://github.com/Utsav-7/Shell-Scripts/.git
+    cd Shell-Scripts
     ```
 
 2. **Navigate to the Tutorial of Interest**:
     ```bash
-    cd tutorials/intro-to-shell-scripting
+    cd Shell-Scripts/Scripts
+    ```
+3. **Give permission (if required)**:
+    ```bash
+    chmod +x *
     ```
 
-3. **Run the Example Scripts**:
+4. **Run the Example Scripts**:
     ```bash
-    ./example-script.sh
+    ./01_basics.sh
     ```
 
 4. **Explore and Modify**:
@@ -52,7 +56,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact [utsavkatharotiya0712@gmail.com](mailto:utsavkatharotiya0712@gmail.com).
 
 ---
 
