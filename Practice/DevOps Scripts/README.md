@@ -1,0 +1,15 @@
+# DevOps Scripts
+- This directory contains real life DevOps Scripts used in industries.
+- List of Scripts:
+-- 01. How to install Software in multiple flavours of OS.
+-- 02. To check disk utilizations
+-- 03. Find the first 10 biggest file in the file system and write the output to a file
+-- 04. Delete old log files
+-- 05. Install software in our system if not installed. first of all we check file present in our system or not.
+-- 06. We will loop over the content of directory specified, and delete all the contents one by one.
+-- 07. Check if docker service is active or not.
+-- 08. Schedule a job automatically to run at regular interval and check if docker service is down, if its down start the service.
+-- 09. Write a shell script which accept a command line arguments and installs many software.
+-- 10.
+-- 11.
+-- 12.

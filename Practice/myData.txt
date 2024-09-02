@@ -1,0 +1,8 @@
+NO,Name,City,Pincode,Mark,Status
+1,Utsav,Surat,320494,99,Pass
+2,Jay,Baroda,432484,90,Pass
+3,Ankur,Ahmedabad,329474,58,Fail
+4,Rashi,Bhavnagar,348923,76,Pass
+5,Reshma,Surat,537857,89,Pass
+6,Priyanka,Baroda,4234073,43,Fail
+
